@@ -2,11 +2,11 @@
 
 This is my first repository.
 
--Next.js App Router
--MongoDB
--Tailwind CSS
--Redux
--Google Authentication
--Room Modeling with AI
+-Next.js App Router <br/>
+-MongoDB <br/>
+-Tailwind CSS <br/>
+-Redux <br/>
+-Google Authentication <br/>
+-Room Modeling with AI <br/>
 
 It is not completed yet. But I stopped building it.
